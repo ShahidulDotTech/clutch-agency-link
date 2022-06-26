@@ -2,6 +2,9 @@ Here is the code for scraping the website clutch.co
 
 The spider is called agency
 
+The main spider is in the this directory:
+healthgrades/healthgrades/spiders/agency.py
+
 To run the spider you have to write the below code in a linux shell
 
     source venv/bin/activate
