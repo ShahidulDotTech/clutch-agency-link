@@ -5,8 +5,10 @@ The spider is called agency
 To run the spider you have to write the below code in a linux shell
 
     source venv/bin/activate
+then
     
     cd healtgrades
+then
 
     scrapy crawl doctor -O output.csv
 
